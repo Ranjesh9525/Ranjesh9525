@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m a 3rd year **Computer Science engineering undergraduate.**
+- 🔭 I’m a 4th year **Computer Science engineering undergraduate.**
 
 - 🌱I’m currently Learning & working on **DSA,MERN & Devops**
 
